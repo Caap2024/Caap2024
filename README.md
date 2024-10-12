@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caap2024
 - 👀 I’m interested in learning java and other programming
 - 🌱 I’m currently starting to learn the basics of java and html
-- 💞️ I’m looking to collaborate on basics and intermmediate stuff about computing and programming
+- 💞️ I’m looking to collaborate on the basics and intermmediate stuff about computing and programming
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im 27 years old and went back to school to finish my college degree, currently freshmen in BS Information Systems. I have shifted course from Hospitality to BSIS.
 
